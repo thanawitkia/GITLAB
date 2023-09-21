@@ -5,11 +5,11 @@ void main()
   int i;
   do
   {
-    printf("Where is my Name? ");
+    printf("Where is my Nameoooooo? ");
     scanf("%s", Name);
     do
     {
-      printf("What is your blood group [A, B, AB, or O]? ");
+      printf("What is your blood groupoooooooo [A, B, AB, or O]? ");
       scanf("%s", G);
 
       if (strcmp(G, "A") !=0  &&
